@@ -1,5 +1,30 @@
-/* main block */
-.back{ 
-    background-color: rgb(136, 113, 85);
-color: blue;
+body{
+    font-family: 'Caveat', cursive;
+}
+.golovne-pole{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1000px;
+    margin: 0 auto;
+    background-color: rgb(209, 250, 250);
+}
+
+
+.song{
+    color: rgb(4, 4, 160);
+    width: 200px;
+    
+}
+h1{
+    background-color: aquamarine;
+}
+.photo{
+    width: 500px;
+    
+    
+}
+
+.right{
+    background-color: blanchedalmond;
+   
 }
